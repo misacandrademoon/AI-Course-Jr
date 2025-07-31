@@ -5,10 +5,10 @@ Welcome to my hands-on repository exploring **Artificial Intelligence (AI) and M
 ## 📂 **Projects Overview**
 | File | Description | Libraries Used |
 |------|------------|----------------|
-| [`neural_networks_clustering.ipynb`](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice/blob/main/neural_networks_clustering.ipynb) | Hierarchical clustering on Iris dataset with dendrograms and 3D interactive plots. | `seaborn`, `scikit-learn`, `plotly` |
-| [`pandas_data_exploration.ipynb`](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice/blob/main/pandas_data_exploration.ipynb) | Optimal data exploration using Pandas (Series, DataFrames, merging, statistics). | `pandas`, `numpy` |
-| [`titanic_eda.ipynb`](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice/blob/main/titanic_eda.ipynb) | Full EDA of Titanic dataset: cleaning, visualization, and descriptive statistics. | `seaborn`, `matplotlib` |
-| (Add 4th file name) | (Brief description) | (Libraries) |
+| [`Hieritical Clustering.ipynb`](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice/blob/main/neural_networks_clustering.ipynb) | Hierarchical clustering on Iris dataset with dendrograms and 3D interactive plots. | `seaborn`, `scikit-learn`, `plotly` |
+| [`Exploratory_Data_Analysis.ipynb`](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice/blob/main/pandas_data_exploration.ipynb) | Optimal data exploration using Pandas (Series, DataFrames, merging, statistics). | `pandas`, `numpy` |
+| [`ExploratoryDataTitanic.ipynb`](https://github.com/misacandrademoon/Introduction-AI-ML-EntryLevelPractice/blob/main/titanic_eda.ipynb) | Full EDA of Titanic dataset: cleaning, visualization, and descriptive statistics. | `seaborn`, `matplotlib` |
+
 
 ## 🌟 **Key Features**
 - **Interactive Visualizations**: 3D plots and dendrograms for clustering ([Example HTML](clusters_3d_interactivo.html)).
