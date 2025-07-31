@@ -25,10 +25,8 @@ Welcome to my hands-on repository exploring **Artificial Intelligence (AI) and M
 2. Develop EDA skills with real-world datasets (Iris, Titanic).
 3. Create publication-ready visualizations.
 
-## 📊 **Sample Output**
-| Dendrogram | Clusters 3D Plot |
-|------------|------------------|
-| ![Dendrogram](https://via.placeholder.com/300x200?text=Dendrogram) | ![3D Plot](https://via.placeholder.com/300x200?text=3D+Cluster+Plot) |
+
+
 
 ## 🤝 **How to Contribute**
 1. Clone the repo: 
